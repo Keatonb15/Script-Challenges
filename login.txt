@@ -1,0 +1,51 @@
+keatonb  tty2         tty2             Wed Apr 26 16:38   still logged in
+reboot   system boot  5.19.0-38-generi Wed Apr 26 16:38   still running
+keatonb  tty2         tty2             Tue Apr 25 19:04 - down   (03:55)
+reboot   system boot  5.19.0-38-generi Tue Apr 25 19:04 - 23:00  (03:55)
+keatonb  tty2         tty2             Mon Apr 24 19:53 - 22:14  (02:21)
+reboot   system boot  5.19.0-38-generi Mon Apr 24 19:52 - 22:14  (02:21)
+keatonb  tty2         tty2             Tue Apr 18 20:12 - down   (02:25)
+reboot   system boot  5.19.0-38-generi Tue Apr 18 20:12 - 22:38  (02:25)
+keatonb  pts/1        10.0.0.242       Thu Apr 13 20:44 - 21:01  (00:16)
+keatonb  tty2         tty2             Thu Apr 13 19:43 - down  (4+03:00)
+reboot   system boot  5.19.0-38-generi Thu Apr 13 19:42 - 22:43 (4+03:01)
+keatonb  tty2         tty2             Wed Apr 12 19:40 - down   (01:05)
+reboot   system boot  5.19.0-38-generi Wed Apr 12 19:40 - 20:45  (01:05)
+keatonb  tty2         tty2             Mon Apr 10 23:06 - down   (00:00)
+reboot   system boot  5.19.0-38-generi Mon Apr 10 23:06 - 23:07  (00:01)
+
+wtmp begins Mon Apr 10 23:06:14 2023
+keatonb  tty2         tty2             Wed Apr 26 16:38   still logged in
+reboot   system boot  5.19.0-38-generi Wed Apr 26 16:38   still running
+keatonb  tty2         tty2             Tue Apr 25 19:04 - down   (03:55)
+reboot   system boot  5.19.0-38-generi Tue Apr 25 19:04 - 23:00  (03:55)
+keatonb  tty2         tty2             Mon Apr 24 19:53 - 22:14  (02:21)
+reboot   system boot  5.19.0-38-generi Mon Apr 24 19:52 - 22:14  (02:21)
+keatonb  tty2         tty2             Tue Apr 18 20:12 - down   (02:25)
+reboot   system boot  5.19.0-38-generi Tue Apr 18 20:12 - 22:38  (02:25)
+keatonb  pts/1        10.0.0.242       Thu Apr 13 20:44 - 21:01  (00:16)
+keatonb  tty2         tty2             Thu Apr 13 19:43 - down  (4+03:00)
+reboot   system boot  5.19.0-38-generi Thu Apr 13 19:42 - 22:43 (4+03:01)
+keatonb  tty2         tty2             Wed Apr 12 19:40 - down   (01:05)
+reboot   system boot  5.19.0-38-generi Wed Apr 12 19:40 - 20:45  (01:05)
+keatonb  tty2         tty2             Mon Apr 10 23:06 - down   (00:00)
+reboot   system boot  5.19.0-38-generi Mon Apr 10 23:06 - 23:07  (00:01)
+
+wtmp begins Mon Apr 10 23:06:14 2023
+keatonb  tty2         tty2             Wed Apr 26 16:38   still logged in
+reboot   system boot  5.19.0-38-generi Wed Apr 26 16:38   still running
+keatonb  tty2         tty2             Tue Apr 25 19:04 - down   (03:55)
+reboot   system boot  5.19.0-38-generi Tue Apr 25 19:04 - 23:00  (03:55)
+keatonb  tty2         tty2             Mon Apr 24 19:53 - 22:14  (02:21)
+reboot   system boot  5.19.0-38-generi Mon Apr 24 19:52 - 22:14  (02:21)
+keatonb  tty2         tty2             Tue Apr 18 20:12 - down   (02:25)
+reboot   system boot  5.19.0-38-generi Tue Apr 18 20:12 - 22:38  (02:25)
+keatonb  pts/1        10.0.0.242       Thu Apr 13 20:44 - 21:01  (00:16)
+keatonb  tty2         tty2             Thu Apr 13 19:43 - down  (4+03:00)
+reboot   system boot  5.19.0-38-generi Thu Apr 13 19:42 - 22:43 (4+03:01)
+keatonb  tty2         tty2             Wed Apr 12 19:40 - down   (01:05)
+reboot   system boot  5.19.0-38-generi Wed Apr 12 19:40 - 20:45  (01:05)
+keatonb  tty2         tty2             Mon Apr 10 23:06 - down   (00:00)
+reboot   system boot  5.19.0-38-generi Mon Apr 10 23:06 - 23:07  (00:01)
+
+wtmp begins Mon Apr 10 23:06:14 2023

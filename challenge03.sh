@@ -3,7 +3,7 @@
 
 function print_something () {
 echo This is the login history
-last
+last >> login.txt 
 }
 print_something
 print_something
