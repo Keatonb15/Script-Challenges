@@ -20,5 +20,3 @@ Get-EventLog LogName System -Newest 20 > C:\Users\admin\Documents\New20.txt
 # Task 5
 $Events = Get-EventLog -LogName System -Newest 500
 $Events / Group-Object -Property Source -NoElement / Sort-Object -Property Count -Descending > C:\Users\admin\Documents\New500.txt
-
-
